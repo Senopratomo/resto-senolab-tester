@@ -1,0 +1,14 @@
+{
+  "name": "webscreencapture",
+  "version": "1.0.0",
+  "description": "CLI to take screenshot of web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ernest Senopratomo",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
